@@ -2,7 +2,7 @@
 
 Aplicação web interativa para visualização de indicadores do mercado financeiro brasileiro, construída com Python e Streamlit.
 
-🔗 **[Acesse o app ao vivo aqui](URL_DO_APP)** ← vamos atualizar esse link após publicar
+🔗 **[Acesse o app ao vivo aqui](🔗 **[Acesse o app ao vivo aqui](https://dashboard-indicadores-br-bnd7guesdjqfgwmbkdaarn.streamlit.app)**)** 
 
 ---
 
